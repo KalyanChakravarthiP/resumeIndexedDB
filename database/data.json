@@ -1,0 +1,66 @@
+[
+	{
+		"id":1,
+		"category":"Education",
+		"name":"Physics",
+		"price":"250",
+		"image":"images/physics.jpg",
+		"description":"Physics is the natural science that studies matter and its motion and behavior through space and time and that studies the related entities of energy and force.Physics is one of the most fundamental scientific disciplines, and its main goal is to understand how the universe behaves.Physics is one of the oldest academic disciplines and, through its inclusion of astronomy, perhaps the oldest. Over the last two millennia, physics, chemistry, biology, and certain branches of mathematics were a part of natural philosophy, but during the scientific revolution in the 17th century, these natural sciences emerged as unique research endeavors in their own right.[b] Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms studied by other sciences[6] and suggest new avenues of research in academic disciplines such as mathematics and philosophy."
+	},
+	{
+		"id":2,
+		"category":"Education",
+		"name":"Chemistry",
+		"price":"250",
+		"image":"images/chemistry.jpg",
+		"description":"Chemistry is the scientific discipline involved with compounds composed of atoms, i.e. elements, and molecules, i.e. combinations of atoms: their composition, structure, properties, behavior and the changes they undergo during a reaction with other compounds.[1][2] Chemistry addresses topics such as how atoms and molecules interact via chemical bonds to form new chemical compounds. There are four types of chemical bonds: covalent bonds, in which compounds share one or more electron(s); ionic bonds, in which a compound donates one or more electrons to another compound to produce ions (cations and anions); hydrogen bonds; and Van der Waals force bonds.In the scope of its subject, chemistry occupies an intermediate position between physics and biology.[3] It is sometimes called the central science because it provides a foundation for understanding both basic and applied scientific disciplines at a fundamental level.[4] Examples include plant chemistry (botany), the formation of igneous rocks (geology), how atmospheric ozone is formed and how environmental pollutants are degraded (ecology), the properties of the soil on the moon (astrophysics), how medications work (pharmacology), and how to collect DNA evidence at a crime scene (forensics).The history of chemistry spans a period from very old times to the present. Since several millennia BC, civilizations were using technologies that would eventually form the basis of the various branches of chemistry."
+	},
+	{
+		"id":3,
+		"category":"Education",
+		"name":"Bialogy",
+		"price":"250",
+		"image":"images/bialogy.jpg",
+		"description":""
+	},
+		{
+			"id":4,
+			"category":"Education",
+			"name":"Social",
+			"price":"250",
+			"image":"images/social.jpg",
+			"description":""
+		},
+		{
+			"id":5,
+			"category":"Novels",
+			"name":"Cop Town",
+			"price":"250",
+			"image":"images/novel1.jpg",
+			"description":""
+		},
+		{
+			"id":6,
+			"category":"Novels",
+			"name":"All The Light We Cannot See",
+			"price":"250",
+			"image":"images/novel2.jpg",
+			"description":""
+		},
+		{
+			"id":7,
+			"category":"Novels",
+			"name":"One Indian Girl",
+			"price":"250",
+			"image":"images/novel3.jpg",
+			"description":""
+		},
+		{
+			"id":8,
+			"category":"Novels",
+			"name":"The Champegne SisterHood",
+			"price":"250",
+			"image":"images/novel4.jpg",
+			"description":""
+		}
+]
